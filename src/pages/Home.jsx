@@ -27,7 +27,7 @@ export default function Home() {
         className="text-center position-relative"
         style={{
           backgroundImage:
-            "url('https://julianawang.com/wp-content/uploads/2019/04/student-hub-support-services.jpg')",
+            "url('/images/space13.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
